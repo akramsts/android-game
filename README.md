@@ -31,7 +31,7 @@ Your score climbs automatically the longer you survive. Jump cleanly over an obs
 ## Installation
 
 ### Option 1: Install the APK
-1. Download the latest `.apk` from the [Releases](#) section.
+1. Download the latest `.apk` from the [Releases](https://github.com/akramsts/android-game/releases) section.
 2. On your Android device, enable **Install from unknown sources** if prompted.
 3. Open the downloaded APK and tap **Install**.
 4. Launch Gree Runner from your app drawer.
