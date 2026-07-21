@@ -1,10 +1,6 @@
 # Gree Runner (Android)
 
-The native Android version of **Gree Runner** — an endless 2D runner game. Jump over obstacles, chain "perfect" jumps for bonus points, and chase your high score. Built as a real Android app (APK), not a web wrapper.
-
-![Platform](https://img.shields.io/badge/platform-Android-3ddc84)
-![Min%20SDK](https://img.shields.io/badge/minSdk-21%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
+The native Android version of **Gree Runner** — an endless 2D runner game. Jump over obstacles, chain "perfect" jumps for bonus points, and chase your high score. Built as a real Android app (APK).
 
 ## About
 
