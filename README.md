@@ -67,3 +67,7 @@ MIT — feel free to fork, modify, and use this project however you'd like.
 ---
 
 Can you beat the high score?
+
+## Author
+
+Made by **Akram**
